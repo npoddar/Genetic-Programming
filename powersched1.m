@@ -1,3 +1,4 @@
+
 function netExcess = powersched1(x)
 
 %x(1-4) represent the schedule for unit 1
